@@ -21,12 +21,12 @@ This project involves the development of a control and display system for embedd
   - Triggers buzzer alerts if conditions are met, indicating that the system is ready for the motor to start.
 
 ## Components Used
-- **Microcontroller:** [Insert the name/model of the microcontroller used]
+- **Microcontroller:** atmega32
 - **Sensors:** 
   - Speed Sensors
   - Brake Position Sensors (BPS)
   - Throttle Position Sensors (APPS)
-- **LCD Display:** [Insert the type/model of the LCD used]
+- **LCD Display** 
 - **Buzzer:** To alert when the system is ready to start
 - **Motor Driver:** To control the motor based on sensor values
 
